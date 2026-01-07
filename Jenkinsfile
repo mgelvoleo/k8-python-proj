@@ -1,5 +1,3 @@
-Have a jenkins pipeline but i need to make a step by step to do like the password credential etc.
-
 pipeline {
     agent any
 
